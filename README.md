@@ -1,43 +1,41 @@
-Mega Project List
+Mega Proje Listesi
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+Herhangi bir programlama dilinde herkesin çözebileceği pratik projelerin listesi . Bu projeler birden çok kategoriye ayrılmıştır ve her kategorinin kendi klasörü vardır.
 
-To get started, simply fork this repo.
+Başlamak için bu repoyu çatallayın.
 
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
+## [KATKIDA BULUNMAKTADIR](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
 
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
+Bu repoya [katkıda bulunmanın](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) yollarını görün. Mevcut sorunlara **çözümler** (bu [repoda](https://github.com/thekarangoel/Projects-Solutions) yayınlanacak) ile katkıda bulunabilir, **yeni projeler ekleyebilir** veya var olanları kaldırabilirsiniz. Tüm talimatları doğru şekilde uyguladığınızdan emin olun.
 
+## [Çözümler](https://github.com/thekarangoel/Projects-Solutions)
 
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
+[Bu repoda](https://github.com/thekarangoel/Projects-Solutions) bu projelerin diğer birçok dilde diğer kullanıcılar tarafından uygulamalarını bulabilirsiniz.
+## Kredi
 
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
+Bu repo [Karan Goel](http://twitter.com/karangoel) tarafından derlenmiştir.
+Bu repo [Yusiko99](https://github.com/Yusiko99/) tarafından Türk diline çevirildi.
 
-## Credits
+Sorunlar şu adreste paylaşılanlardan kaynaklanır:
 
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+* [Martyr2'nin Mega Proje Listesi](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+* [Rosetta Kodu](http://rosettacode.org/)
 
-Problems are motivated by the ones shared at:
-
-* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
-* [Rosetta Code](http://rosettacode.org/)
-
-## Table of Contents
-
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
+## İçindekiler
+- [Sayılar](https://github.com/karan/Projects#numbers)
+- [Klasik Algoritmalar](https://github.com/karan/Projects#classic-algorithms)
+- [Grafik](https://github.com/karan/Projects#graph)
+- [Veri Yapıları](https://github.com/karan/Projects#data-structures)
+- [Metin](https://github.com/karan/Projects#text)
+- [Ağ Oluşturma](https://github.com/karan/Projects#networking)
+- [Sınıflar](https://github.com/karan/Projects#classes)
+- [İş Parçacığı Oluşturma](https://github.com/karan/Projects#threading)
 - [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Dosyalar](https://github.com/karan/Projects#files)
+- [Veritabanları](https://github.com/karan/Projects#databases)
+- [Grafik ve Multimedya](https://github.com/karan/Projects#graphics-and-multimedia)
+- [Güvenlik](https://github.com/karan/Projects#security)
 
 Numbers
 ---------
