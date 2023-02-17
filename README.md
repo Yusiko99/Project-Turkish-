@@ -14,8 +14,8 @@ Bu repoya [katkıda bulunmanın](https://github.com/thekarangoel/Projects/blob/m
 [Bu repoda](https://github.com/thekarangoel/Projects-Solutions) bu projelerin diğer birçok dilde diğer kullanıcılar tarafından uygulamalarını bulabilirsiniz.
 ## Kredi
 
-*Bu repo [Karan Goel](http://twitter.com/karangoel) tarafından derlenmiştir.
-*Bu repo [Yusiko99](https://github.com/Yusiko99/) tarafından Türk diline çevirildi.
+*Bu repo [Karan Goel](http://twitter.com/karangoel) tarafından derlenmiştir.*
+*Bu repo [Yusiko99](https://github.com/Yusiko99/) tarafından Türk diline çevirildi.*
 
 Sorunlar şu adreste paylaşılanlardan kaynaklanır:
 
@@ -24,17 +24,17 @@ Sorunlar şu adreste paylaşılanlardan kaynaklanır:
 
 ## İçindekiler
 - [Sayılar](https://github.com/Yusiko99/Project-Turkish-#Sayılar)
-- [Klasik Algoritmalar](https://github.com/Yusiko99/Project-Turkish-#Klasik Algoritmalar)
+- [Klasik Algoritmalar](https://github.com/Yusiko99/Project-Turkish-#Klasik-Algoritmalar)
 - [Grafik](https://github.com/Yusiko99/Project-Turkish-#Grafik)
-- [Veri Yapıları](https://github.com/karan/Projects](https://github.com/Yusiko99/Project-Turkish-#Veri Yapıları)
+- [Veri Yapıları](https://github.com/Yusiko99/Project-Turkish-#Veri-Yapıları)
 - [Metin](https://github.com/Yusiko99/Project-Turkish-#Metin)
-- [Ağ]((https://github.com/Yusiko99/Project-Turkish-#Ağ)
+- [Ağ](https://github.com/Yusiko99/Project-Turkish-#Ağ)
 - [Sınıflar](https://github.com/Yusiko99/Project-Turkish-#Sınıflar)
-- [İş Parçacığı Oluşturma](https://github.com/Yusiko99/Project-Turkish-#Diş açma)
+- [İş Parçacığı Oluşturma](https://github.com/Yusiko99/Project-Turkish-#Diş-açma)
 - [Web](https://github.com/Yusiko99/Project-Turkish-#Web)
 - [Dosyalar](https://github.com/Yusiko99/Project-Turkish-#Dosyalar)
 - [Veritabanları](https://github.com/Yusiko99/Project-Turkish-#Veritabanları)
-- [Grafik ve Multimedya](https://github.com/Yusiko99/Project-Turkish-#Grafik ve Multimedya)
+- [Grafik ve Multimedya](https://github.com/Yusiko99/Project-Turkish-#Grafik-ve-Multimedya)
 - [Güvenlik](https://github.com/Yusiko99/Project-Turkish-#Güvenlik)
 
 Sayılar
