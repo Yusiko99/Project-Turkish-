@@ -23,7 +23,7 @@ Sorunlar şu adreste paylaşılanlardan kaynaklanır:
 * [Rosetta Kodu](http://rosettacode.org/)
 
 ## İçindekiler
-- [Sayılar](https://github.com/karan/Projects#numbers)
+- [Sayılar](https://github.com/Yusiko99/Project-Turkish-#Sayılar)
 - [Klasik Algoritmalar](https://github.com/karan/Projects#classic-algorithms)
 - [Grafik](https://github.com/karan/Projects#graph)
 - [Veri Yapıları](https://github.com/karan/Projects#data-structures)
