@@ -24,18 +24,18 @@ Sorunlar şu adreste paylaşılanlardan kaynaklanır:
 
 ## İçindekiler
 - [Sayılar](https://github.com/Yusiko99/Project-Turkish-#Sayılar)
-- [Klasik Algoritmalar](https://github.com/karan/Projects#classic-algorithms)
-- [Grafik](https://github.com/karan/Projects#graph)
-- [Veri Yapıları](https://github.com/karan/Projects#data-structures)
-- [Metin](https://github.com/karan/Projects#text)
-- [Ağ Oluşturma](https://github.com/karan/Projects#networking)
-- [Sınıflar](https://github.com/karan/Projects#classes)
-- [İş Parçacığı Oluşturma](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Dosyalar](https://github.com/karan/Projects#files)
-- [Veritabanları](https://github.com/karan/Projects#databases)
-- [Grafik ve Multimedya](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Güvenlik](https://github.com/karan/Projects#security)
+- [Klasik Algoritmalar](https://github.com/Yusiko99/Project-Turkish-#Klasik Algoritmalar)
+- [Grafik](https://github.com/Yusiko99/Project-Turkish-#Grafik)
+- [Veri Yapıları](https://github.com/karan/Projects](https://github.com/Yusiko99/Project-Turkish-#Veri Yapıları)
+- [Metin](https://github.com/Yusiko99/Project-Turkish-#Metin)
+- [Ağ]((https://github.com/Yusiko99/Project-Turkish-#Ağ)
+- [Sınıflar](https://github.com/Yusiko99/Project-Turkish-#Sınıflar)
+- [İş Parçacığı Oluşturma](https://github.com/Yusiko99/Project-Turkish-#Diş açma)
+- [Web](https://github.com/Yusiko99/Project-Turkish-#Web)
+- [Dosyalar](https://github.com/Yusiko99/Project-Turkish-#Dosyalar)
+- [Veritabanları](https://github.com/Yusiko99/Project-Turkish-#Veritabanları)
+- [Grafik ve Multimedya](https://github.com/Yusiko99/Project-Turkish-#Grafik ve Multimedya)
+- [Güvenlik](https://github.com/Yusiko99/Project-Turkish-#Güvenlik)
 
 Sayılar
 ---------
@@ -86,7 +86,6 @@ Sayılar
 
 
 Klasik Algoritmalar
-
 -----------------
 
 **Collatz Sanısı** - *n > 1* sayısıyla başlayın. Aşağıdaki işlemi kullanarak bire ulaşmak için gereken adım sayısını bulun: *n* çift ise 2'ye bölün. *n* tek ise 3 ile çarpın ve 1 ekleyin.
@@ -99,7 +98,6 @@ Klasik Algoritmalar
 
 
 Grafik
-
 --------
 
 **Bağlantılardan grafik** - Bir dizi bağlantıdan bir grafik veya ağ oluşturacak bir program oluşturun.
@@ -148,7 +146,6 @@ Metin
 **Normal İfade Sorgulama Aracı** - Kullanıcının bir metin dizesi girmesine ve ardından ayrı bir kontrolde bir normal ifade kalıbı girmesine izin veren bir araç. Normal ifadeyi kaynak metne karşı çalıştıracak ve normal ifadedeki tüm eşleşmeleri veya bayrak hatalarını döndürecektir.
 
 Ağ
-
 ---------
 
 **FTP Programı** - Uzak bir web sunucusundan dosyaları ileri geri aktarabilen bir dosya aktarım programı.
@@ -192,7 +189,6 @@ Bir çalışan hiyerarşisi oluşturduktan sonra, çalışanları yönetmenize o
 
 
 Diş açma
-
 ---------
 
 **İndirmeler için Bir İlerleme Çubuğu Oluşturun** - Sürmekte olan bir indirmeyi takip edebilen uygulamalar için bir ilerleme çubuğu oluşturun. İlerleme çubuğu ayrı bir iş parçacığında olacak ve delegeleri kullanarak ana iş parçacığıyla iletişim kuracak.
